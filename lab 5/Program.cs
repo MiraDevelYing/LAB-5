@@ -10,8 +10,8 @@ class Program
     static void Main(string[] args)
     {
 
-        string path_x = @"C:\Users\giros\source\repos\lab5\x.txt";
-        string path_y = @"C:\Users\giros\source\repos\lab5\y.txt";
+        string path_x = @"D:\projects\c#\lab 5\x.txt";
+        string path_y = @"D:\projects\c#\lab 5\y.txt";
 
 
         double[] arr_x = FilesToGetArrays(path_x);
